@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1655402549 source:c:\users\sistemas17\desktop\nueva carpeta\deportes\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
